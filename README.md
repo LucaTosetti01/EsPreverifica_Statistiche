@@ -1,0 +1,2 @@
+# EsPreverifica_Statistiche
+Esercizio preverifica statistiche
